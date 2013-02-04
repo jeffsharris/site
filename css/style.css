@@ -1,5 +1,10 @@
-.center {
+.centerscreen {
   position: fixed;
   top: 50%;
   left: 50%;
+}
+
+.center {
+	margin-left: -50%;
+	margin-top: -50%;
 }
